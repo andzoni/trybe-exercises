@@ -10,12 +10,12 @@ The program has more than 1,500 hours of online classes, covers introduction to 
 
 ##### Block 1: Introduction - Unix & Shell
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [x] 1-3: _Unix & Shell- Part 1_
+- [x] 1-4: _Unix & Shell- Part 2_
 
 ##### Block 2: Git & GitHub
 
-- [ ] 2-1: _What is it and what is it for?_
+- [x] 2-1: _What is it and what is it for?_
 - [ ] 2-2: _Understanding the commands_
 - [ ] 2-3: _Internet - Understanding how it works_
 
